@@ -37,3 +37,7 @@ The site is a static resume hosted on S3, secured via CloudFront, and includes a
 * API Gateway triggers a Lambda function
 * Lambda updates and returns count from DynamoDB
 * JS updates the <span id="visitor-count"> on page
+
+**Deployment History**
+
+June 18, 2025: Initial version launched with CloudFront + Visitor Counter
