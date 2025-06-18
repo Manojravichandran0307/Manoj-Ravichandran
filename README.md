@@ -11,7 +11,8 @@ The site is a static resume hosted on S3, secured via CloudFront, and includes a
 
 **Architecture Diagram**
 
-![Cloud resume drawio](https://github.com/user-attachments/assets/4794c35e-db3e-432e-9bb2-1767177d1a3f)
+![Cloud resume1 drawio](https://github.com/user-attachments/assets/ca3a321d-961b-490b-8f61-aed43f8c192b)
+
 
 **Services Used**
 
