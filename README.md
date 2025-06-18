@@ -1,2 +1,1 @@
-# Manoj-Ravichandran
-This repo is meant to document my projects
+📊 Cloud Resume Challenge - Manoj
